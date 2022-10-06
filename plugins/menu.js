@@ -630,7 +630,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://github.com/Dityarunz'
+                        url: 'https://github.com/Yui'
                     }
                 },
                 {
