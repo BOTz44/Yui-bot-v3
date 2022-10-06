@@ -49,32 +49,32 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sig = 'https://instagram.com/q.c.ditya' // ig
-global.sgh = 'https://github.com/Dityarunz' // github
-global.sgc = 'https://chat.whatsapp.com/Ej8JuTdjGnA4XxLGbwlpMP' // group whatsapp
+global.sig = 'https://www.instagram.com/angga_ozmy?r=nametag' // ig
+global.sgh = '"-"' // github
+global.sgc = 'https://chat.whatsapp.com/Esu9k3KIgSoCOZAR5ugO3F' // group whatsapp
 global.sdc = '-'//discord
-global.snh = 'https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg' // my youtube channel
+global.snh = 'https://youtube.com/channel/UCQJqLGlG-Qqq23x2LIOjJ3A' // my youtube channel
 global.sfb = 'gakpunya' // facebook
-global.syt = 'https://youtube.com/channel/UCxkIPWS8gVxomQTVWxetdSg' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
+global.syt = 'https://youtube.com/channel/UCQJqLGlG-Qqq23x2LIOjJ3A' // my youtube channel "kalau ada yt ke 2 tarok link nya disini"
 
 /*============== PAYMENT ==============*/
-global.pdana = '085792429140' //dana
-global.povo = '085738153140' //ovo
-global.pgopay = '085792429140' //gopay
+global.pdana = '082142185506' //dana
+global.povo = '082142185506' //ovo
+global.pgopay = '082142185506' //gopay
 global.plinkaja = '-' //link aja
 global.ppulsa = 'gak punya' //telkomsel
-global.ppulsa2 = '085792429140' // kalau ada kartu lain isi aja
+global.ppulsa2 = '082142185506' // kalau ada kartu lain isi aja
 global.psaweria = 'gak punya'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285792429140'
-global.nomorown = '6285237596750'
-global.namebot = 'DITYA-BOTZ'
-global.nameown = 'DITYA ASTAWA'
+global.nomorbot = '6282142449269'
+global.nomorown = '6282142185506'
+global.namebot = 'Yui BOTZ'
+global.nameown = 'YUI'
 
 /*============== Github Thanks To ==============*/
-global.namagithub = 'https://githuh.com/Dityarunz' // nama github lu
-global.linkgithub = 'https://githuh.com/Dityarunz' // tarok link github lu
+global.namagithub = 'https://githuh.com' // nama github lu
+global.linkgithub = 'https://githuh.com' // tarok link github lu
 
 // klau kgk ada github kasih tanda '-' aja biar kgk error
 
@@ -85,11 +85,11 @@ global.lolkey = 'e54205a4ca2caa368cc067bb' // PUNYA WAHID  8e66d0934cf741bfd2182
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285237596750', 'WH MODS DEV', true],
-  ['-', '6285237596750', true],
-  ['-', '6285237596750', true],
-  ['-', '6285237596750', true],
-  ['-', '6285237596750', true]
+  ['6282142185506', 'Yui', true],
+  ['-', '6282142185506', true],
+  ['-', '6282142185506', true],
+  ['-', '6282142185506', true],
+  ['-', '6282142185506', true]
     //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
@@ -138,14 +138,14 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 DITYA BOTZ 」' //Main Watermark
+global.wm = '                「 Yui BOTZ 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘DITYA BOTZ ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ DITYA BOTZ '
+global.wm3 = '⫹⫺ Yui BOTZ '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By DITYA-ASTAWA`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Yui`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '                「 DITYA-BOTZ  あ」'
+global.author = '                「 Yui-BOTZ  あ」'
 
 /*Fake*/
 global.fsizedoc = '1'.repeat(10)
