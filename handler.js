@@ -874,7 +874,7 @@ export async function handler(chatUpdate) {
                         global.db.data.chats[m.chat] = {}
                     if (chat) {
                     if (!('antiDelete' in chat)) chat.antiDelete = false
-                    if (!('antiLink' in chat)) chat.antiLink = false
+                    if (!('antiLink' in chat)) chat.antiLink = true
                     if (!('antiSticker' in chat)) chat.antiSticker = false
                     if (!('antiToxic' in chat)) chat.antiToxic = false
                     if (!('detect' in chat)) chat.detect = false
@@ -896,12 +896,12 @@ export async function handler(chatUpdate) {
                     if (!('useDocument' in chat)) chat.useDocument = false
                     if (!('viewonce' in chat)) chat.viewonce = false
                     if (!('viewOnce' in chat)) chat.viewOnce = false
-                    if (!('welcome' in chat)) chat.welcome = false
+                    if (!('welcome' in chat)) chat.welcome = true
                     if (!isNumber(chat.expired)) chat.expired = 0
                 } else
                     global.db.data.chats[m.chat] = {
                         antiDelete: false,
-                        antiLink: false,
+                        antiLink: true,
                         antiSticker: false,
                         antiToxic: false,
                         detect: false,
@@ -924,7 +924,7 @@ export async function handler(chatUpdate) {
                         useDocument: false,
                         viewOnce: false,
                         viewonce: false,
-                        welcome: false,
+                        welcome: true,
                     }
             let settings = global.db.data.settings[this.user.jid]
             if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {}
