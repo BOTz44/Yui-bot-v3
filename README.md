@@ -1,80 +1,73 @@
+# OSCAR-MULTIDEVICE
 
-## CATATAN
-Script ini untuk semua orang, bukan untuk Dijual. Jika dijual neraka menunggumu kakak !
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <img src="https://i.ibb.co/XZrK6yQ/transformers.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+JAROT-OFFC;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Bwang+%3A);jangan+lupa+kasih+start+!" alt="budii">
+
 </p>
-<h1 align="center">WH MODS BOT - MD</h1>
+<div align="center">
+  <p align="center">
+<img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="128" height="128"/>
+</p>
+ <p align="center">
+<a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+  <p align="center">
+<a href="https://wa.me/6285850539404"><img title="Author" src="https://img.shields.io/badge/Author-JAROT OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
+<a href="https://instagram.com/Jarotr_"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Instagram"></a>
+<a href="https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"><img title="Group Jarot offc" src="https://img.shields.io/badge/Group-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
+</p>
+</div>
 <p align="center">
-  <a href="https://github.com/WH-MODS-BOT"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=WH+MODS+BOT+Multi+Device;Base+ori+by;BochilGaming+And+KANNACHAN;Recode+By+WH+MODS+DEV;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make it public
+    <br>
+       | © |
+        Reserved |
+    <br> 
 </p>
 
-<p align="center">
- <a href="#"><img title="WH-MODS-BOT" src="https://img.shields.io/badge/-WH--MODS--BOT--MD-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/WH-MODS-BOT"><img title="Author" src="https://img.shields.io/badge/AUTHOR-WH--MODS--BOT-green?style=for-the-badge&logo=github"></a>
-    
-# Ambil Session Disini
-
-> Buka [ Linknya Disini ](https://replit.com/@zeeoneofc/Session-Md?lite=1&outputonly=1#.replit) 
-> Dan Subscribe [ Here ](https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow) 
-
+#### KELEBIHAN 🪄
+| Kelebihan | Check |
+|--------|--------|
+| **Fast Respon** |[✔️](https://github.com/Alpiii22) |
+| **Simple** |[✔️](https://github.com/Alpiii22) |
+| **Button Template** |[✔️](https://github.com/Alpiii22) |
+| **Multi Device** |[✔️](https://github.com/Alpiii22) |
+| **Button Document** |[✔️](https://github.com/Alpiii22) |
 ---------
-## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6285736178354">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_ctzhid_">
-    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
-  </a> &nbsp;&nbsp;
-  <a href="https://www.youtube.com/channel/UCMx4e8anOq_Olt2nMSv0Cow">
-    <img align="left" alt="SIEGRIN | YouTube" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Youtube.svg" />
-  </a> &nbsp;&nbsp;
----------
-
-## ```Whatsapp``` <a href="https://wa.me/6282127487538"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
-[![BOT WHATSAPP](https://img.shields.io/badge/Group%20All%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/HQMa4AGBFKRBi4z4R0MnH4) 
----------
-
-#### a little about this bot
-- [x] **Fast Respon** 
-- [x] **Simple** 
-- [x] **Button Template** 
-- [x] **Multi Device** 
-- [x] **Button Document(Experiment)** 
----------
-#### Some of the features include
-- [x] Downloader 
-- [x] Internet 
-- [x] Game Rpg 
-- [x] Nsfw 
-- [x] Sticker 
-- [x] Game 
-- [x] Kerang Ajaib 
-- [x] Quotes 
-- [x] Anime 
-- [x] Premium 
-- [x] Tools 
-- [x] Exec 
-- [x] React 
+#### FITUR 🎀
+| Fitur | Check |
+|--------|--------|
+| **Downloader** |[✔️](https://github.com/Alpiii22) |
+| **Internet** |[✔️](https://github.com/Alpiii22) |
+| **Game Rpg** |[✔️](https://github.com/Alpiii22) |
+| **Nsfw** |[✔️](https://github.com/Alpiii22) |
+| **Sticker** |[✔️](https://github.com/Alpiii22) |
+| **Game** |[✔️](https://github.com/Alpiii22) |
+| **Kerang Ajaib** |[✔️](https://github.com/Alpiii22) |
+| **Quotes** |[✔️](https://github.com/Alpiii22) |
+| **Anime** |[✔️](https://github.com/Alpiii22) |
+| **Premium** |[✔️](https://github.com/Alpiii22) |
+| **Tools** |[✔️](https://github.com/Alpiii22) |
+| **Exec** |[✔️](https://github.com/Alpiii22) |
+| **React** |[✔️](https://github.com/Alpiii22) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/WH-MODS-BOT/fix-bot-v3/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alpiii22/OSCAR-MULTIDEVICE)
 
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git) |
-| **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
+| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [here](https://github.com/rocketmobile/heroku-buildpack-imagemagick.git) |
 
 ## TERMUX USER
 ```bash
@@ -83,8 +76,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/WH-MODS-BOT/fix-bot-v3
-$ cd fix-bot-v3
+$ git clone https://github.com/Alpiii22/OSCAR-MULTIDEVICE
+$ cd OSCAR-MULTIDEVICE
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -120,14 +113,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & WH-MODS-BOT-MD]
+[ INSTALLING NODEJS & OSCARBOT-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/WH-MODS-BOT/fix-bot-v3
-cd fix-bot-v3
+git clone https://github.com/Alpiii22/OSCAR-MULTIDEVICE
+cd OSCAR-MULTIDEVICE
 npm install
 npm update
 ```
@@ -142,8 +135,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/WH-MODS-BOT/fix-bot-v3
-cd fix-bot-v3
+git clone https://github.com/Alpiii22/OSCAR-MULTIDEVICE
+cd OSCAR-MULTIDEVICE
 npm install
 npm update
 ```
@@ -227,7 +220,6 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 2. Don't forget give star this repo
 3. Follow Github
 4. Don't use this repository wrong!
-5. If you have problem chat me in owner number
 
 ---------
 
@@ -236,18 +228,17 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/WH-MODS-BOT)
-* [`My parents`](https://github.com/WH-MODS-BOT)
-* [`All Friends`](https://github.com/WH-MODS-BOT)
-* [`All Contributors`](https://github.com/WH-MODS-BOT)
-* [`All Creator Bot`](https://github.com/WH-MODS-BOT)
+* [`Allah SWT`](https://github.com/Alpiii22)
+* [`My parents`](https://github.com/Alpiii22)
+* [`All Friends`](https://github.com/Alpiii22)
+* [`All Contributors`](https://github.com/Alpiii22)
+* [`All Creator Bot`](https://github.com/Alpiii22)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
-* [`ImYanXiao`](https://github.com/ImYanXiao)
 * [`KannaChann`](https://github.com/kannachann) 
 * [`The.Sad.Boy01`](https://github.com/Kangsad01) 
 * [`Papah-Chan`](https://github.com/FahriAdison) 
 
 ## ```Recode By ✏️```
-[![WH-MODS-BOT](https://github.com/WH-MODS-BOT.png?size=70)](https://github.com/WH-MODS-BOT)
+[![JAROT](https://github.com/Alpiii22.png?size=150)](https://github.com/Alpiii22)
