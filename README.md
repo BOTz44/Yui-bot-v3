@@ -1,68 +1,72 @@
-# OSCAR-MULTIDEVICE
+<p align="center">
+    <img src="https://telegra.ph/file/eaabc97cb81180be2c9a6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">KannaBOT - MD</h1>
+<p align="center">
+  <a href="https://github.com/ImYanXiao"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Kanna+BOT+Multi+Device;Base+ori+by+BochilGaming;Recode+By+YanXiao;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+</p>
 
 <p align="center">
-
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=WELCOME;My+name+is+JAROT-OFFC;IKUTIN-SOSIALMEDIA+SAYA!!;JANGAN+LUPA+JOIN+GROUP%2C++Bwang+%3A);jangan+lupa+kasih+start+!" alt="budii">
-
+ <a href="#"><img title="KannaBOT" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
-<div align="center">
-  <p align="center">
-<img src="https://telegra.ph/file/c6f6d447f2c76e3795a10.jpg" alt="Img" width="128" height="128"/>
-</p>
- <p align="center">
-<a href="#"><img title="JAROT OFFC" src="https://img.shields.io/badge/JAROT%20OFFC-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://wa.me/6285850539404"><img title="Author" src="https://img.shields.io/badge/Author-JAROT OFFC/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
-<a href="https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Youtube"></a>
-<a href="https://instagram.com/Jarotr_"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=Instagram"></a>
-<a href="https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL"><img title="Group Jarot offc" src="https://img.shields.io/badge/Group-Jarot Offc/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
-</p>
-</div>
 <p align="center">
-Project created by <a href="https://github.com/Alpiii22">JAROT OFFC</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
-</p>
+<a href="https://github.com/LeonGantengz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Zakuro-blue.svg?style=for-the-badge&logo=github"></a>
+
+---------
+## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
+  <a href="https://wa.me/6282142185506">
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="https://www.instagram.com/leonvx._">
+    <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
+  </a> &nbsp;&nbsp;
+  <a href="mailto:leonganz.kry@gmail.com">
+    <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
+  </a> &nbsp;&nbsp;
+---------
+
+## ```Whatsapp``` <a href="https://wa.me/6285736178354"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+62895410472842) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285608625102) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://tinyurl.com/ya4dpmdv) 
+---------
 
 #### KELEBIHAN 🪄
 | Kelebihan | Check |
 |--------|--------|
-| **Fast Respon** |[✔️](https://github.com/Alpiii22) |
-| **Simple** |[✔️](https://github.com/Alpiii22) |
-| **Button Template** |[✔️](https://github.com/Alpiii22) |
-| **Multi Device** |[✔️](https://github.com/Alpiii22) |
-| **Button Document** |[✔️](https://github.com/Alpiii22) |
+| **Fast Respon** |[✔️](https://github.com/ImYanXiao) |
+| **No Internet** |[✔️](https://github.com/ImYanXiao) |
+| **Simple** |[✔️](https://github.com/ImYanXiao) |
+| **Button template** |[✔️](https://github.com/ImYanXiao) |
+| **Multi Device** |[✔️](https://github.com/ImYanXiao) |
 ---------
 #### FITUR 🎀
 | Fitur | Check |
 |--------|--------|
-| **Downloader** |[✔️](https://github.com/Alpiii22) |
-| **Internet** |[✔️](https://github.com/Alpiii22) |
-| **Game Rpg** |[✔️](https://github.com/Alpiii22) |
-| **Nsfw** |[✔️](https://github.com/Alpiii22) |
-| **Sticker** |[✔️](https://github.com/Alpiii22) |
-| **Game** |[✔️](https://github.com/Alpiii22) |
-| **Kerang Ajaib** |[✔️](https://github.com/Alpiii22) |
-| **Quotes** |[✔️](https://github.com/Alpiii22) |
-| **Anime** |[✔️](https://github.com/Alpiii22) |
-| **Premium** |[✔️](https://github.com/Alpiii22) |
-| **Tools** |[✔️](https://github.com/Alpiii22) |
-| **Exec** |[✔️](https://github.com/Alpiii22) |
-| **React** |[✔️](https://github.com/Alpiii22) |
+| **Downloader** |[✔️](https://github.com/ImYanXiao) |
+| **Internet** |[✔️](https://github.com/ImYanXiao) |
+| **Game Rpg** |[✔️](https://github.com/ImYanXiao) |
+| **Nsfw** |[✔️](https://github.com/ImYanXiao) |
+| **Sticker** |[✔️](https://github.com/ImYanXiao) |
+| **Game** |[✔️](https://github.com/ImYanXiao) |
+| **Kerang Ajaib** |[✔️](https://github.com/ImYanXiao) |
+| **Quotes** |[✔️](https://github.com/ImYanXiao) |
+| **Anime** |[✔️](https://github.com/ImYanXiao) |
+| **Premium** |[✔️](https://github.com/ImYanXiao) |
+| **Tools** |[✔️](https://github.com/ImYanXiao) |
+| **Exec** |[✔️](https://github.com/ImYanXiao) |
+| **React** |[✔️](https://github.com/ImYanXiao) |
 ---------
 
 ## `SETTING`
 
-- Owner Number [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
-- Owner Name [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
-- Bot Name [Here](https://github.com/Alpiii22/OSCAR-MULTIDEVICE/blob/master/config.js#L1)
+- Owner Number [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
+- Owner Name [Here](https://github.com/LeonGantengz/kannaxyui-multidevice/blob/master/config.js#L1)
+- Bot Name [Here](https://github.com/LeonGantengz/kannaxyui/blob/master/config.js#L1)
 ---------
 
 ## ```Heroku Buildpack```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alpiii22/OSCAR-MULTIDEVICE)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kannachann/KannaBOT-MD)
 
 | BuildPack | LINK |
 |--------|--------|
@@ -76,8 +80,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/Alpiii22/OSCAR-MULTIDEVICE
-$ cd OSCAR-MULTIDEVICE
+$ git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+$ cd Kanna-MultiDevice
 $ npm i 
 ```
 If error try using yarn instead of npm, see [here](https://github.com/BochilGaming/games-wabot/tree/multi-device#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -85,7 +89,7 @@ If error try using yarn instead of npm, see [here](https://github.com/BochilGami
 $ node .
 ```
 
-#### For android 10 and above don't use npm, use yarn install
+#### If npm install failed, try using yarn instead of npm
 ```bash
 $ pkg install yarn -y
 $ yarn install
@@ -113,14 +117,14 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & OSCARBOT-MD]
+[ INSTALLING NODEJS & KANNABOT-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/Alpiii22/OSCAR-MULTIDEVICE
-cd OSCAR-MULTIDEVICE
+git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+cd Kanna-MultiDevice
 npm install
 npm update
 ```
@@ -135,8 +139,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/Alpiii22/OSCAR-MULTIDEVICE
-cd OSCAR-MULTIDEVICE
+git clone https://github.com/ImYanXiao/Kanna-MultiDevice
+cd Kanna-MultiDevice
 npm install
 npm update
 ```
@@ -216,10 +220,10 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ### 📮 S&K
-1. Don't For Sale
-2. Don't forget give star this repo
-3. Follow Github
-4. Don't use this repository wrong!
+1. Jangan diperjual belikan Script ini
+2. Sebelum pakai jangan lupa kasih star
+3. Follow Github !
+4. Jangan salah gunakan script ini!
 
 ---------
 
@@ -228,17 +232,25 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 ---------
 
 ## ```Thanks to ✨```
-* [`Allah SWT`](https://github.com/Alpiii22)
-* [`My parents`](https://github.com/Alpiii22)
-* [`All Friends`](https://github.com/Alpiii22)
-* [`All Contributors`](https://github.com/Alpiii22)
-* [`All Creator Bot`](https://github.com/Alpiii22)
+* [`Allah SWT`](https://github.com/ImYanXiao)
+* [`My parents`](https://github.com/ImYanXiao)
+* [`All Friends`](https://github.com/ImYanXiao)
+* [`All Contributors`](https://github.com/ImYanXiao)
+* [`All Creator Bot`](https://github.com/ImYanXiao)
 * [`Adiwajshing`](https://github.com/adiwajshing/Baileys)
 * [`Nurutomo`](https://github.com/nurutomi)
 * [`BochilGaming`](https://github.com/bochilgaming)
-* [`KannaChann`](https://github.com/kannachann) 
-* [`The.Sad.Boy01`](https://github.com/Kangsad01) 
-* [`Papah-Chan`](https://github.com/FahriAdison) 
+* [`KannaChan`](https://github.com/kannachann)
+* [`LeonGanz`](https://github.com/LeonGantengz)
+ 
 
 ## ```Recode By ✏️```
-[![JAROT](https://github.com/Alpiii22.png?size=150)](https://github.com/Alpiii22)
+[![Zakuro](https://github.com/Bl4ck-lion.png?size=70)](https://github.com/ImYanXiao)
+
+## ```Contributor 🤝```
+* [`The.Sad.Boy01`](https://github.com/Kangsad01)
+* [`AmirulDev20`](https://github.com/amiruldev20)
+* [`Rasel Comel`](https://github.com/raselcomel)
+* [`Rominaru`](https://github.com/rominaru)
+* [`KannaChan`](https://github.com/kannachann)
+* [`Fahri Adison`](https://github.com/FahriAdison) 
