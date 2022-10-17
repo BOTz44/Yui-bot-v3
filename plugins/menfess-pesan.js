@@ -39,10 +39,11 @@ Contoh: .menfess 628xxxxxxxxxx|hai owner`
     conn.reply(m.chat, logs, m)
 }
 handler.help = ['menfess2 nomor|pesan']
-handler.tags = ['menbalas']
+handler.tags = ['premium']
 
 handler.command = /^(menfess2|confess2|menfes2|confes2)$/i
 
 handler.limit = true
+handler.premium = true
 handler.private = true
 export default handler
