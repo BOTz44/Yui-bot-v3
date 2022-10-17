@@ -41,6 +41,4 @@ handler.botAdmin = false
 handler.fail = null
 handler.limit = true
 
-module.exports = penangan
-
-module.exports = { createRoom, leaveRoom, anonymous }
+export default handler
