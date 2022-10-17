@@ -28,5 +28,19 @@ function leaveRoom(ab) {
     delete anonymous[room.id]
     return other
 }
+handler.tags = ['premium']
+handler.owner = benar
+handler.mods = false
+handler.premium = true
+handler.group = false
+handler.private = false
+
+handler.admin = salah
+handler.botAdmin = false
+
+handler.fail = null
+handler.limit = true
+
+module.exports = penangan
 
 module.exports = { createRoom, leaveRoom, anonymous }
